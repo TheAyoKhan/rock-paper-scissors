@@ -29,3 +29,7 @@ body {
 .weapon:hover {
   background: #eee;
 }
+
+.outcome {
+  margin-top: 1em;
+}
